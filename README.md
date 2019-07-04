@@ -3,7 +3,7 @@ This repository hold the details for the JFrog Kubernetes with Artifactory chall
 
 ## The challenge
 You are challenged to setup the following
-1. Get trial for [Artifactory cloud](https://jfrog.com/artifactory/free-trial/)
+1. Get trial for [Artifactory cloud](https://jfrog.com/artifactory/free-trial/#saas)
 2. Configure [Artifactory as your helm repository](https://www.jfrog.com/confluence/display/RTF/Helm+Chart+Repositories) (local, remote and virtual repositories are needed)
 3. Deploy the public [wordpress helm chart](https://hub.helm.sh/charts/stable/wordpress) using Artifactory as the helm repository (the remote will pull the official chart)
    
